@@ -1,0 +1,1 @@
+# Keep WebView JavaScript interfaces
